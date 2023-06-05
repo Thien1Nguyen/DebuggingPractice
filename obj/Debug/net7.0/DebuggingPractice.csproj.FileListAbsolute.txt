@@ -1,0 +1,15 @@
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.exe
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.deps.json
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.runtimeconfig.json
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.pdb
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.csproj.AssemblyReference.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.AssemblyInfo.cs
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\refint\DebuggingPractice.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.pdb
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.genruntimeconfig.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\DebuggingPractice\obj\Debug\net7.0\ref\DebuggingPractice.dll
